@@ -22,12 +22,8 @@
 		"tap": "^10.2.0",
 		"tera-data": "github:meishuu/tera-data"
 	},
-	"files": [
-		"lib/"
-	],
 	"homepage": "https://github.com/pinkipi/tera-data-parser-js#readme",
 	"license": "ISC",
-	"main": "lib/index.js",
 	"name": "tera-data-parser",
 	"optionalDependencies": {
 		"baldera-logger": "^0.1.0"
