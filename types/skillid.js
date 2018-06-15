@@ -2,6 +2,7 @@
 
 function parseArgs(obj) {
 	if(typeof obj === 'number') obj = {type: 1, id: obj}
+	else if(obj == null) obj = {}
 
 	const npc = Boolean(obj.npc),
 		type = obj.type & 0xf,
