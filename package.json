@@ -9,7 +9,7 @@
 	"dependencies": {
 		"baldera-logger": "^0.1.0",
 		"long": "^4.0.0",
-		"vec3": "github:pinkipi/tera-vec3"
+		"tera-vec3": "github:pinkipi/tera-vec3"
 	},
 	"deprecated": false,
 	"description": "tera-data-parser",
