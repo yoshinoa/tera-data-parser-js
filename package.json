@@ -9,7 +9,7 @@
 	"dependencies": {
 		"baldera-logger": "^0.1.0",
 		"long": "^4.0.0",
-		"tera-vec3": "github:pinkipi/tera-vec3"
+		"tera-vec3": "github:tera-proxy/tera-vec3"
 	},
 	"deprecated": false,
 	"description": "tera-data-parser",
@@ -20,9 +20,9 @@
 		"eslint-plugin-import": "^2.2.0",
 		"sinon": "^2.1.0",
 		"tap": "^10.2.0",
-		"tera-data": "github:meishuu/tera-data"
+		"tera-data": "github:trini0n/tera-data"
 	},
-	"homepage": "https://github.com/pinkipi/tera-data-parser-js#readme",
+	"homepage": "https://github.com/tera-proxy/tera-data-parser#readme",
 	"license": "ISC",
 	"name": "tera-data-parser",
 	"optionalDependencies": {
@@ -33,7 +33,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/pinkipi/tera-data-parser-js.git"
+		"url": "git+https://github.com/tera-proxy/tera-data-parser.git"
 	},
 	"scripts": {
 		"lint": "eslint .",
